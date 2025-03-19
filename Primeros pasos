@@ -1,0 +1,13 @@
+-- Instalación de yarn
+
+npm i --global yarn
+
+npx create-expo-app demo
+
+Se crea y se abre el emulador
+
+Dentro de la carpeta del proyecto
+
+yarn start
+a
+
