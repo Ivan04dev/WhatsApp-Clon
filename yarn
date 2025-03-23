@@ -1,0 +1,12 @@
+-- Instalar paquetes
+yarn add [package_name]
+yarn add [package_name] -D
+
+yarn add express
+yarn add nodemon -D
+
+-- Correr scripts
+yarn [script_name]
+
+yarn start
+yarn dev
