@@ -1,3 +1,9 @@
+-- Instalación de yarn
+npm i --global yarn
+
+-- Crea el proyecto 
+npx create-expo-app demo
+
 -- Instalar paquetes
 yarn add [package_name]
 yarn add [package_name] -D
